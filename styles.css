@@ -1,0 +1,34 @@
+input{display: block;
+    width: 200px;
+    height: 35px;
+    color: black; }
+    h1{
+
+        color: red;
+    }
+    .checkbox{ width: auto;
+   
+       height: 10px;
+
+        display:inline
+        
+    }
+    h2{color: rgb(113, 75, 26)
+
+
+    }
+    .radio{
+           display: inline;
+           width: auto;
+           height: 15px;
+    }
+.video{
+
+
+    font-size: 25px;
+}
+.type{
+
+
+    color: white;
+}
